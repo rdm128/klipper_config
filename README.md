@@ -1,6 +1,14 @@
 # klipper_config of a Voron V2.4
 
-This is the config of my Voron 2.4 350mm3 Serial:V2.660
+Thank you AndrewEllis93 for this excellent starting point.  This is a fork of his work with minor modifications to support my pinter.
+   1) Abstracted all pins to pins.cfg to make it easier for others with different controllers
+   2) Added his test_speed macro in
+   3) Added bedfans config from (surprisingly enough) AndrewEllis93!
+   4) A few other tweaks here and there to get things stable
+
+The remainder of this readme if from Ellis and should be read if you plan to use my fork.
+
+This is the config of my Voron 2.4 350mm3
 
 Be aware I see my config as WIP and it can and will change any time. I normally do only checkin stuff that is tested and run with the base klipper branch but I test also klipper PRs so it can happen that I oversee that from time to time and have stuff here that needs a special PR from klipper.
 
