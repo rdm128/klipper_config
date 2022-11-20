@@ -1,6 +1,6 @@
 # klipper_config of a Voron V2.4
 
-Thank you Alex Zellner for this excellent starting point.  This is a fork of his work with minor modifications to support my pinter.
+Thank you Alex Zellner for this excellent starting point.  This is a fork of his work with minor modifications to support my printer.
    1) Abstracted all pins to pins.cfg to make it easier for others with different controllers
    2) Added AndrewEllis93 test_speed macro
    3) Added bedfans config from (surprisingly enough) AndrewEllis93!
