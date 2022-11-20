@@ -6,7 +6,7 @@ Thank you Alex Zellner for this excellent starting point.  This is a fork of his
    3) Added bedfans config from (surprisingly enough) AndrewEllis93!
    4) A few other tweaks here and there to get things stable
 
-The remainder of this readme if from Ellis and should be read if you plan to use my fork.
+The remainder of this readme if from Zellner and should be read if you plan to use my fork.
 
 This is the config of my Voron 2.4 350mm3
 
